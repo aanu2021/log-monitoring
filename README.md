@@ -7,9 +7,13 @@ This project implements a log monitoring system that processes log entries from 
 - Java Development Kit (JDK) installed (to run it locally)
 - Docker installed (optional for Docker usage)
 
+---
+
 ## Internal Directory Structure
 
 ![image](https://github.com/aanu2021/log-monitoring/assets/91496248/5c111967-c2ea-481f-b040-df0234ad3f2c)
+
+---
 
 ## Running the Program Locally
 
@@ -56,6 +60,7 @@ After running the program, check the output file generated in the `testcases/tes
 
 ![image](https://github.com/aanu2021/log-monitoring/assets/91496248/6a1a3b94-320b-4823-8e89-0a668152ffdb)
 
+---
 
 ## Multiple Test Cases
 
@@ -69,6 +74,8 @@ After running the program, check the output file generated in the `testcases/tes
   String outputFilePath = "testcases/test2/output.txt";
   ```
 - Similarly, new test cases can be added inside testcases directory, e.g `test11`, `test12`, `test13`, .....
+
+---
 
 ## Running the Docker Container Locally
 
@@ -105,6 +112,8 @@ docker run -v %cd%/testcases:/app/testcases ghcr.io/aanu2021/log-monitoring:log-
 - Use the above mentioned command to run the Docker container, mounting the testcases directory to ensure the program has access to the input files. The final directory structure would be - 
 
 ![image](https://github.com/aanu2021/log-monitoring/assets/91496248/b8f00d9e-71e9-4b9a-8ba3-ab58254afa0e)
+
+---
 
 ## Containerization Process
 
@@ -158,6 +167,8 @@ docker run -v %cd%/testcases:/app/testcases ghcr.io/aanu2021/log-monitoring:log-
 
 ### Docker Images inside Github Container Registry
 ![image](https://github.com/aanu2021/log-monitoring/assets/91496248/b12c88ca-2054-4bbe-a87e-240cd7aa29a3)
+
+---
 
 ## Implementation (Main.java)
 
