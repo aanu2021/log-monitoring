@@ -329,13 +329,31 @@ public class Main {
 docker pull ghcr.io/<GITHUB_USERNAME>/<REPOSITORY_NAME>:<DOCKER_TAG>
 ```
 
+- In this case the command would be - 
+
+```bash
+docker pull ghcr.io/aanu2021/log-monitoring:log-monitoring
+```
+
+- Make sure, `testcases` directory is present in the same location where docker container is running. e.g : input.txt file should be present inside `test1` folder, which is again placed inside `testcases` directory.
+
+![image](https://github.com/aanu2021/log-monitoring/assets/91496248/89f7d740-6626-4ad9-980f-29a34437115e)
+
+![image](https://github.com/aanu2021/log-monitoring/assets/91496248/2c272baf-048b-47a8-be10-e4b8b4b977fe)
+
 ### Step 2: Running Docker with volume mount
 
 ```bash
 docker run -v %cd%/testcases:/app/testcases ghcr.io/<GITHUB_USERNAME>/<GITHUB_REPO_NAME>:<DOCKER_TAG>
 ```
-- Make sure, `testcases` directory is present in the same location where docker container is running. e.g : input.txt file should be present inside `test1` folder, which is again placed inside `testcases` directory.
 
-![image](https://github.com/aanu2021/log-monitoring/assets/91496248/89f7d740-6626-4ad9-980f-29a34437115e)
-  
-- Use the above mentioned command to run the Docker container, mounting the testcases directory to ensure the program has access to the input files.
+- In this case the command would be - 
+
+```bash
+docker run -v %cd%/testcases:/app/testcases ghcr.io/aanu2021/log-monitoring:log-monitoring
+```
+
+- Use the above mentioned command to run the Docker container, mounting the testcases directory to ensure the program has access to the input files. The final directory structure would be - 
+
+![image](https://github.com/aanu2021/log-monitoring/assets/91496248/b8f00d9e-71e9-4b9a-8ba3-ab58254afa0e)
+
