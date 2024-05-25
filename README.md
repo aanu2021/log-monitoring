@@ -321,7 +321,7 @@ public class Main {
 ### Docker Images inside Github Container Registry
 ![image](https://github.com/aanu2021/log-monitoring/assets/91496248/b12c88ca-2054-4bbe-a87e-240cd7aa29a3)
 
-## Running the Program Locally
+## Running the Docker Container Locally
 
 ### Step 1: Pulling the image
 
