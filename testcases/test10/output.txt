@@ -1,0 +1,54 @@
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 10, Max: 65, Mean: 41.265625
+Min: 30, Max: 35, Mean: 32
+Min: 19, Max: 25, Mean: 21.833333
+Min: 22, Max: 65, Mean: 45.35
+Min: 19, Max: 65, Mean: 44.875
+Min: 19, Max: 65, Mean: 44.25
+Min: 14, Max: 65, Mean: 38.9375
+Min: 0.0, Max: 0.0, Mean: 0.0
+Min: 24, Max: 24, Mean: 24
+Min: 31, Max: 31, Mean: 31
+Min: 30, Max: 35, Mean: 32
+No output

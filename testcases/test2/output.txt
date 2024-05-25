@@ -1,0 +1,123 @@
+No output
+No output
+No output
+Min: 25.2, Max: 25.2, Mean: 25.2
+No output
+Min: 18.7, Max: 25.2, Mean: 21.95
+No output
+No output
+Min: 18.7, Max: 18.7, Mean: 18.7
+No output
+Min: 31.6, Max: 31.6, Mean: 31.6
+No output
+No output
+Min: 10.5, Max: 13.8, Mean: 12.233333
+No output
+No output
+No output
+Min: 25.2, Max: 31.6, Mean: 28.833333
+No output
+Min: 10.5, Max: 31.6, Mean: 20.8
+No output
+No output
+Min: 10.5, Max: 13.8, Mean: 11.975
+No output
+No output
+No output
+Min: 0.0, Max: 0.0, Mean: 0.0
+No output
+No output
+No output
+No output
+Min: 17.9, Max: 19.3, Mean: 18.633333
+No output
+No output
+Min: 16.8, Max: 19.3, Mean: 18.175
+No output
+No output
+No output
+Min: 10.5, Max: 31.6, Mean: 22.22
+No output
+No output
+No output
+Min: 25.2, Max: 32, Mean: 28.9
+No output
+No output
+No output
+Min: 12.5, Max: 32.2, Mean: 24.866667
+No output
+No output
+Min: 10.5, Max: 14.6, Mean: 12.3
+No output
+No output
+No output
+Min: 0.0, Max: 0.0, Mean: 0.0
+No output
+No output
+Min: 16.8, Max: 20.2, Mean: 18.583333
+No output
+No output
+No output
+Min: 10.5, Max: 32.2, Mean: 23.473529
+No output
+No output
+Min: 10, Max: 14.6, Mean: 12.027273
+No output
+No output
+No output
+Min: 16.8, Max: 20.2, Mean: 18.583333
+No output
+No output
+No output
+No output
+Min: 25.2, Max: 32.2, Mean: 29.027273
+No output
+Min: 11.7, Max: 31.8, Mean: 24.725
+No output
+No output
+No output
+Min: 16.8, Max: 20.3, Mean: 18.9375
+No output
+No output
+Min: 25.2, Max: 32.2, Mean: 29.027273
+No output
+No output
+No output
+No output
+Min: 10, Max: 14.6, Mean: 11.893333
+No output
+No output
+No output
+Min: 10.5, Max: 32.2, Mean: 23.551282
+No output
+No output
+No output
+No output
+Min: 25.2, Max: 32.2, Mean: 29.018182
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 10, Max: 14.6, Mean: 11.816667
+No output
+No output
+No output
+Min: 11.6, Max: 32.3, Mean: 25.542857
+No output
+No output
+No output
+No output
+Min: 25, Max: 32.3, Mean: 28.977358
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 16.8, Max: 21.2, Mean: 19.309091
+No output
+Min: 10, Max: 14.6, Mean: 11.76
+Min: 24.5, Max: 32.3, Mean: 28.878947
+Min: 24.5, Max: 32.3, Mean: 28.878947
